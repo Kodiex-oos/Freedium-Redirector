@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Freedium Redirector",
+    "version": "1.0",
+    "description": "Redirects Medium URLs to Freedium.",
+    "permissions": [
+      "webNavigation",
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
