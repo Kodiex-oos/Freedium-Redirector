@@ -1,2 +1,2 @@
 # Freedium-Redirector
-Redirects Medium URLs to Freedium
+A browser extension which redirects Medium URLs to Freedium(https://freedium.cfd/)
